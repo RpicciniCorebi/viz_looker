@@ -1,6 +1,6 @@
 looker.plugins.visualizations.add({
   // Id and Label are legacy properties, but still required.
-  id: "conversational-analytics-viz",
+  id: "https://rpiccinicorebi.github.io/viz_looker/conversational_viz/manifest.json",
   label: "Conversational Analytics",
 
   options: {
