@@ -6,7 +6,7 @@
   "source_url": "https://github.com/your-repo/conversational-analytics-viz",
   "visualization": {
     "file": "viz.js",
-    "url": "http://127.0.0.1:8080/viz.js"
+    "url": "https://rpiccinicorebi.github.io/viz_looker/conversational_viz/viz.js"
   },
   "dependencies": []
 }
