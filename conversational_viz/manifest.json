@@ -1,5 +1,5 @@
 {
-  "id": "conversational-analytics-viz",
+  "id": "https://rpiccinicorebi.github.io/viz_looker/conversational_viz/manifest.json",
   "name": "Conversational Analytics",
   "description": "A custom visualization to interact with the Conversational Analytics API.",
   "version": "1.0.0",
